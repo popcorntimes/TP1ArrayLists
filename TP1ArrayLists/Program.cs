@@ -48,7 +48,7 @@ namespace TP1ArrayLists
             }
             if(errorCounter >= 3)
             {
-                Console.WriteLine("VocÊ atingiu o limite de tentativas");
+                Console.WriteLine("Você atingiu o limite de tentativas");
             }
 
         }
